@@ -1,0 +1,13 @@
+PROLOGUE:
+
+Welcome, Coding Apprentice, to the hallowed halls of Hackwards School of Codecraft—the pinnacle of coding excellence and innovation.
+
+Although you’re excited, little do you know that a veil of shadows hangs over the prestigious institution.
+
+The Incognito Phantom, a sinister code crafter has returned to Hackwards. His Polymorphic Prowlers, cunning shape-shifters in disguise, roam the school's corridors, masquerading as your fellow apprentices. Their mission? To eradicate the very essence of codecrafting brilliance from within.
+
+It is up to you to unmask the prowlers one by one, paving the path to confrontation with Incognito Phantom himself.
+
+Remember: the very essence of code is at stake!
+
+You are now about to embark on a quest that transcends the realms of mere coding practice…

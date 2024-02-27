@@ -1,0 +1,34 @@
+Noah Rodriguez
+Wealth Wraith
+Main Entrance
+"Hey! My name is Noah Rodriguez. You can choose any of the commands below to interact with me."
+
+Rachel Chang
+Dread Marauder
+Dorm Rooms
+"Hey! My name is Rachel Chang. You can choose any of the commands below to interact with me."
+
+Sophia Turner
+Night Shade Serpent
+Hackers Hallway
+"Hey! My name is Sophia Turner. You can choose any of the commands below to interact with me."
+
+Olivia Peterson
+Sinister Shade
+Coders Building
+"Hey! My name is Olivia Peterson. You can choose any of the commands below to interact with me."
+
+Ava Thompson
+Crimson Specter
+Locker Room
+"Hey! My name is Ava Thompson. You can choose any of the commands below to interact with me."
+
+Victor Reynolds
+Dark Howler
+Fourth Floor
+"Hey! My name is Victor Reynolds. You can choose any of the commands below to interact with me."
+
+Freya Frostfall
+Lumina Wing
+Side Entrance
+"Hey! My name is Freya Frostfall. You can choose any of the commands below to interact with me."

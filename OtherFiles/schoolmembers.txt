@@ -1,0 +1,19 @@
+Grace Mike
+Front Gate
+"Hey! My name is Grace Mike. You can choose any of the commands below to interact with me."
+
+Crownmark Markuss
+Administrations Office
+"Hi! My name is Crownmark Markuss. You can choose any of the commands below to interact with me."
+
+Professor Zachary
+Library
+"Hello. My name is Professor Zachary. You can choose any of the commands below to interact with me."
+
+Jake Fukuda
+CodeCraft Classroom
+"Hey! My name is Jake Fukuda. You can choose any of the commands below to interact with me."
+
+Isabelle Stormrider
+Cafeteria
+"Hey! My name is Isabelle Stormrider. You can choose any of the commands below to interact with me."

@@ -1,0 +1,23 @@
+Which of the following automata models has the most computational power?
+A. Finite Automata (FA)
+B. Pushdown Automata (PDA)
+C. Turing Machine (TM)
+D. Mealy Machine
+C. Turing Machine (TM)
+Consider the type of memory and computational abilities each automaton has access to. Which one allows for an unbounded memory and computation? That might lead you to the answer!
+
+In context-free grammars (CFGs), which theorem states that for any context-free language, there exists a parse tree for any string in that language?
+A. Pumping Lemma
+B. Chomsky Normal Form Theorem
+C. Greibach Normal Form Theorem
+D. Parse Tree Theorem
+D. Parse Tree Theorem
+Think about the fundamental concept that guarantees the existence of a parse tree for any string in a context-free language. It relates to the nature of context-free languages and their structural representation. This theorem establishes a crucial property regarding the formation of parse trees.
+
+Which of the following is true regarding regular languages and context-free languages?
+A) Regular languages are a proper subset of context-free languages.
+B) Context-free languages are a proper subset of regular languages.
+C) Regular languages are equivalent to context-free languages.
+D) There is no relationship between regular languages and context-free languages.
+B) Context-free languages are a proper subset of regular languages.
+Think about the types of languages that each category encompasses. Consider the structure and rules that define regular languages versus context-free languages. One of these types has a broader scope, encompassing the other as a subset due to their differing complexities in terms of rules and expressions.

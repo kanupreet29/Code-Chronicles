@@ -1,0 +1,23 @@
+INSTRUCTIONS:
+
+You must save Hackwards School of Codecraft by defeating the seven Polymorphic Prowlers sent by the Incognito Phantom. However, as per their polymorphic nature, they can shape shift and disguise themselves as students. It is up to you to find them, uncover their identity and defeat them!
+
+Depending on the character you chose (Mage, Alchemist, Warrior), you will start a different number of lives and code bytes. Code bytes are the games currency. 
+
+You can use code bytes to purchase pets, which can help you during battle (i.e. providing hints). By default, you will start with a pet.
+
+You can use the map to navigate between different parts of the school. It takes 1 code byte to unlock a room.
+
+Each room has a school member, who can either be innocent, or secretly a prowler. You must try to guess which of the two they are. Click on them to interact. 
+
+You will be prompted with three options:
+
+(a) Ignore (Requires 5 code bytes): Walk away.
+(b) Hack (Requires 2 code bytes): If you think they are a prowler, you may Hack (engage in battle) which is in the form of programming questions. If you win, you will earn 10 code bytes. If you lose, it will cost you 1 life. If you wrongfully hack an innocent student, it will also cost you 1 life.
+(c) Trust: If you think they are innocent, you may true the school member, which will earn you 10 code bytes. Wrongfully trusting a prowler will cost you 1 life.
+
+Once you have found and defeated all seven prowlers, you must defeat the Incognito Phantom himself!
+
+Please note, that you must select a Pet after customizing your character to play this game.
+
+Good Luck!

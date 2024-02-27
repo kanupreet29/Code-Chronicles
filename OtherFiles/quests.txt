@@ -1,0 +1,69 @@
+The Algorithmic Odyssey
+Which of the following is not true about comparison-based sorting algorithms?
+A. The minimum possible time complexity of a comparison-based sorting algorithm is O(n(log(n)) for a random input array.
+B. Any comparison based sorting algorithm can be made stable by using position as a criteria when two elements are compared.
+C. Counting Sort is not a comparison based sorting algorithm.
+D. Heap Sort is not a comparison based sorting algorithm.
+D. Heap Sort is not a comparison based sorting algorithm.
+Consider the fundamental operations that comparison-based sorting algorithms rely on when arranging elements. Which sorting methods operate strictly based on comparisons between elements, and which might involve alternative processes beyond comparisons?
+Dark Howler
+
+Debugging Dilemma
+Suppose we’re debugging a quicksort implementation that is supposed to sort an array in ascending order. After the first partition step has been completed, the contents of the array are in the following order: 3 9 1 14 17 24 22 20. Which of the following statements is correct about the partition step?
+A. The pivot could have been either 14 or 17.
+B. The pivot could have been 14, but could not have been 17.
+C. The pivot could have been 17, but could not have been 14.
+D. Neither 14 nor 17 could have been the pivot.
+A. The pivot could have been either 14 or 17.
+In the quicksort algorithm, the pivot element is usually chosen from the array and used to partition the array into two parts. Think about the characteristics of the elements with respect to the chosen pivot and how they should be arranged after partitioning. The pivot divides the array into smaller and larger elements. Considering the initial order of the array elements after the first partition step might help you determine which elements could have been the pivot.
+Crimson Specter
+
+Buggy Trail Expedition
+In the JavaScript, which one of the following is not considered as an error:
+A. Syntax error
+B. Missing of semicolons
+C. Division by zero
+D. Missing of Bracket
+C. Division by zero
+Consider the nature of JavaScript operations and how they're interpreted or executed by the JavaScript engine. Think about which of these actions might be handled differently or might not trigger an error in certain scenarios.
+Dread Marauder
+
+Recursive Realm Rescue
+Consider a recursive function factorial(n) that calculates the factorial of a positive integer n. Which of the following statements about the recursive calls made by factorial(n) is NOT necessarily true?
+A. Each recursive call decrements the value of n by 1 until it reaches the base case.
+B. The function uses a stack-like mechanism to keep track of intermediate values and function calls.
+C. Recursive calls are made until n reaches 0 or 1, triggering the base case.
+D. The recursive calls generate a sequence of nested function calls until the base case is reached.
+A. Each recursive call decrements the value of n by 1 until it reaches the base case.
+To identify the statement that might not necessarily hold true for all recursive functions, consider the nature of recursion and how it interacts with the base case and the function's execution. Think about the scenarios in which a recursive function might not strictly follow a particular pattern or behavior.
+Lumina Wing
+
+Data Structure Discovery
+Which of the following is not the application of a stack?
+A. A parentheses balancing program
+B. Tracking of local variables at run time
+C. Compiler Syntax Analyzer
+D. Data Transfer between two asynchronous process
+D. Data Transfer between two asynchronous process
+Among these options, think about the concept or application where stacks might not typically play a role. Try focusing on the purpose and operation of stacks in different scenarios to identify the odd one out.
+Night Shade Serpent
+
+Sorting Saga: Mastering Algorithms
+Suppose you have to sort a large collection of integers that are in the range of 1 to 100, and you know that 99% of these integers fall in the range of 1 to 10. Which of the following sorting algorithms would likely perform the best in terms of time complexity for this specific dataset?
+A. Quick Sort
+B. Merge Sort
+C. Radix Sort
+D. Bubble Sort
+C. Radix Sort
+Consider the characteristics of the given dataset—specifically, the range of values and the concentration of integers within a certain range. Which sorting algorithm capitalizes on patterns in the range of values and could potentially take advantage of the concentrated distribution within a subset of the range?
+Sinister Shade
+
+AI Algorithm Adventure
+In the context of reinforcement learning, which scenario best describes the trade-off between exploration and exploitation?
+A. A learning agent consistently chooses actions with the highest known reward based on experiences.
+B. An agent selects actions randomly without considering their potential rewards.
+C. Balancing between choosing actions that have provided high rewards and exploring new actions to discover potentially higher rewards.
+D. An agent always selects the action with the lowest known reward to encourage exploration.
+C. Balancing between choosing actions that have provided high rewards and exploring new actions to discover potentially higher rewards.
+Consider the dilemma faced by an agent in reinforcement learning: Should it exploit its current knowledge by choosing actions with known high rewards, or should it explore new actions that might lead to higher rewards in the future? Which option reflects the simultaneous consideration of exploiting known high rewards and exploring for potentially higher rewards?
+Wealth Wraith

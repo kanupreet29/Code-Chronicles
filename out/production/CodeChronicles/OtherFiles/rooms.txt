@@ -1,0 +1,59 @@
+Front Gate
+0
+0
+The front gate of Hackwards School of Codecraft towers above you, its wrought-iron structure adorned with pulsating binary patterns and binary tree bushes.
+
+Main Entrance
+1
+0
+You're standing across from the main entrance of Hackwards School of Codecraft, where the building lights up with radiant holographic symbols that flicker with the promise of arcane programming secrets.
+
+Administrations Office
+2
+0
+You’re standing outside the administration office, a room with a polished interior featuring sleek glass panels and minimalist coding motifs.
+
+Dorm Rooms
+3
+0
+You stand across from the eerie dorm rooms of Hackwards School of Codecraft, where elongated shadows linger menacingly around cryptic lines of code scrawled on the walls, evoking an unsettling sense of mystery and apprehension.
+
+Hackers Hallway
+0
+1
+You’re navigating through the Hackers Hallway, a long row of doors dimly lit by the ghostly glow of monitors left aglow with lines of intricate code.
+
+Coders Building
+1
+1
+You stand at the entrance of Coders building, a sleek structure of glass and steel where the distant clicks of keyboards and soft discussions envelop the surroundings.
+
+Library
+2
+1
+You’re standing in the serene library of Hackwards School of Codecraft, where the faint hum of servers blends with the soft rustle of turning pages, creating a tranquil environment where coders immerse themselves in a symphony of knowledge. The librarian looks at you and smiles, happy to be surrounded by neatly organized coding books and the comforting scent of well-worn algorithms.
+
+CodeCraft Classroom
+3
+1
+You enter the dimly lit Codecraft classroom, where the silence amplifies the solemnity of vacant workstations, each screen patiently awaiting the return of eager coders.
+
+Locker Room
+0
+2
+You’re standing in the Hackwards locker room, where the shadows play upon rows of empty compartments, creating an atmosphere of mystery and solitude.
+
+Fourth Floor
+1
+2
+You’re standing across from the fourth-floor staircase, the rhythmic tap of your footsteps reverberating against the cool metal steps as the soft glow of programmable LED lights flickers above you.
+
+Cafeteria
+2
+2
+You enter the bustling cafeteria, where the aroma of freshly brewed code coffee mingles with the soft hum of collaborative coding discussions, creating a vibrant and lively atmosphere.
+
+Side Entrance
+3
+2
+You’re standing next to the side entrance of Hackwards School of Codecraft, a modest portal tucked against the sprawling brick walls of the massive building.
